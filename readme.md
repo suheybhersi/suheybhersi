@@ -1,6 +1,6 @@
 # Hi, I'm Suheyb 👋
 
-Software Engineer · Building things with C++, TypeScript, React & Flutter
+Software Engineer · Building things with JavaScript/TypeScript, React & Flutter
 
 ---
 
