@@ -29,7 +29,7 @@ I'm a software engineering student with a passion for building clean, functional
 
 - 🐙 [github.com/suheybhersi](https://github.com/suheybhersi)
 - 📧 suheybhersi@gmail.com
-- 💼 [LinkedIn](www.linkedin.com/in/suheybhersi)
+- 💼 [Portfolio](https://www.suheybhersi.com)
 
 ---
 
