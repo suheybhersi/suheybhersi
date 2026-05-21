@@ -23,8 +23,9 @@ I'm a software engineering student with a passion for building clean, functional
 | [todo_app](https://github.com/suheybhersi/todo_app) | Task management app with persistent storage and clean UI | Flutter |
 | [weather](https://github.com/suheybhersi/weather) | Weather lookup app using a public API with responsive layout | CSS / JS |
 
----
 *See more on my [portfolio](https://www.suheybhersi.com)*
+
+---
 
 ## 📬 Find me
 
