@@ -19,8 +19,8 @@ I'm a software engineering student with a passion for building clean, functional
 | Project | Description | Language |
 |---|---|---|
 | [ecommerce_app](https://github.com/suheybhersi/ecommerce_app) | A full-featured e-commerce application with product listings, cart, and checkout flow | Flutter |
+| [Job Application Tracker](https://github.com/suheybhersi/job-application-tracker) | A full-stack job application tracking system | Next.js |
 | [todo_app](https://github.com/suheybhersi/todo_app) | Task management app with persistent storage and clean UI | Flutter |
-| [GuessMyNumber](https://github.com/suheybhersi/GuessMyNumber) | Number guessing game with scoring and feedback logic | JavaScript |
 | [weather](https://github.com/suheybhersi/weather) | Weather lookup app using a public API with responsive layout | CSS / JS |
 
 ---
